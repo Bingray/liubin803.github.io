@@ -16,6 +16,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+\\(u(\lambda, T)=\frac{8\pi hc}{\lambda^5}\cdot\frac{1}{e^\frac{hc}{\lambda kT}-1}\\)
+
 ```markdown
 Syntax highlighted code block
 
@@ -23,6 +26,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+\\(u(\lambda, T)=\frac{8\pi hc}{\lambda^5}\cdot\frac{1}{e^\frac{hc}{\lambda kT}-1}\\)
 - Bulleted
 - List
 
